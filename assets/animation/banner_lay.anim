@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "banner_lay",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": []
+    },
+    "paths": {
+      "logo": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 834
+            },
+            {
+              "frame": 0.5,
+              "value": 201
+            }
+          ]
+        }
+      },
+      "text": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -540
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

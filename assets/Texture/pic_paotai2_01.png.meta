@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6570dc57-7acf-4839-8f3f-a055e7bd1953",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pic_paotai2_01": {
+      "ver": "1.0.3",
+      "uuid": "fd2ced04-3890-44ec-8d0c-37a238800b44",
+      "rawTextureUuid": "6570dc57-7acf-4839-8f3f-a055e7bd1953",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 56,
+      "height": 72,
+      "rawWidth": 60,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

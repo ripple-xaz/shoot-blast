@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yun_piao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 199
+        },
+        {
+          "frame": 2.0166666666666666,
+          "value": 913
+        }
+      ]
+    }
+  },
+  "events": []
+}
